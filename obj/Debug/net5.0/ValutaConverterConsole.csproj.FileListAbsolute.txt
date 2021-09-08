@@ -1,0 +1,16 @@
+G:\My Drive\Programmering\Skole\C#\ValutaConverterConsole\bin\Debug\net5.0\ValutaConverterConsole.exe
+G:\My Drive\Programmering\Skole\C#\ValutaConverterConsole\bin\Debug\net5.0\ValutaConverterConsole.deps.json
+G:\My Drive\Programmering\Skole\C#\ValutaConverterConsole\bin\Debug\net5.0\ValutaConverterConsole.runtimeconfig.json
+G:\My Drive\Programmering\Skole\C#\ValutaConverterConsole\bin\Debug\net5.0\ValutaConverterConsole.runtimeconfig.dev.json
+G:\My Drive\Programmering\Skole\C#\ValutaConverterConsole\bin\Debug\net5.0\ValutaConverterConsole.dll
+G:\My Drive\Programmering\Skole\C#\ValutaConverterConsole\bin\Debug\net5.0\ref\ValutaConverterConsole.dll
+G:\My Drive\Programmering\Skole\C#\ValutaConverterConsole\bin\Debug\net5.0\ValutaConverterConsole.pdb
+G:\My Drive\Programmering\Skole\C#\ValutaConverterConsole\obj\Debug\net5.0\ValutaConverterConsole.csproj.AssemblyReference.cache
+G:\My Drive\Programmering\Skole\C#\ValutaConverterConsole\obj\Debug\net5.0\ValutaConverterConsole.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Programmering\Skole\C#\ValutaConverterConsole\obj\Debug\net5.0\ValutaConverterConsole.AssemblyInfoInputs.cache
+G:\My Drive\Programmering\Skole\C#\ValutaConverterConsole\obj\Debug\net5.0\ValutaConverterConsole.AssemblyInfo.cs
+G:\My Drive\Programmering\Skole\C#\ValutaConverterConsole\obj\Debug\net5.0\ValutaConverterConsole.csproj.CoreCompileInputs.cache
+G:\My Drive\Programmering\Skole\C#\ValutaConverterConsole\obj\Debug\net5.0\ValutaConverterConsole.dll
+G:\My Drive\Programmering\Skole\C#\ValutaConverterConsole\obj\Debug\net5.0\ref\ValutaConverterConsole.dll
+G:\My Drive\Programmering\Skole\C#\ValutaConverterConsole\obj\Debug\net5.0\ValutaConverterConsole.pdb
+G:\My Drive\Programmering\Skole\C#\ValutaConverterConsole\obj\Debug\net5.0\ValutaConverterConsole.genruntimeconfig.cache
